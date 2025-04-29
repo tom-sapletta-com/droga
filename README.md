@@ -1,9 +1,9 @@
-+ [audio - mp3](droga.mp3)
 
 ![obraz](https://github.com/user-attachments/assets/47beb107-0727-4bc1-8902-e9f05aa17d66)
 
 # [droga](http://droga.sapletta.pl)
 
++ [audio - mp3](droga.mp3)
 
 Marcin zamknął za sobą drzwi mieszkania i oparł się o nie, zamykając na chwilę oczy. Był zmęczony, ale nie tylko fizycznie. Ten rodzaj zmęczenia znał dobrze — psychiczne wyczerpanie po kolejnej nieudanej randce. Marika była trzecią kobietą w tym miesiącu, która po kilku spotkaniach stwierdziła, że "to nie to", bez konkretnego wyjaśnienia.
 
